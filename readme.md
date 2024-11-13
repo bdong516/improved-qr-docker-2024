@@ -9,11 +9,10 @@ the target website. You must make your program generate a QR code that takes som
 2.  Signup for your own Docker account 
 
 ## Submission Requirements:
-![qrcode](https://github.com/user-attachments/assets/a679d9a5-0d76-4279-ab07-1665dbddf4a4)
 
 1. Add the QR code image that links to your own GitHub homepage that you generate to the readme.md file, so that it appears below.
 
-PUT YOUR QR CODE IMAGE
+![qrcode](https://github.com/user-attachments/assets/a679d9a5-0d76-4279-ab07-1665dbddf4a4)
 
 2.  Add an image of viewing the log of successfully creating the QR code below.
  PUT YOUR LOG IMAGE HERE
